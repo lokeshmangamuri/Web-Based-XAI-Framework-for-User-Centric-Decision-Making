@@ -18,3 +18,54 @@ Data from all decisions is stored automatically, allowing researchers to analyze
 
 ## 📂 Project Structure  
 
+
+---
+
+## 🛠️ Features  
+
+### ✔ Fully Interactive Diagnosis Workflow  
+- Sequential case navigation (Next/Previous)  
+- Progress bar  
+- Timer  
+- Visual explanations (XAI mode)  
+
+### ✔ Explainable AI Support  
+The XAI mode displays four explainability outputs:
+- SHAP bar plot  
+- Arm position  
+- Bone bending  
+- Spherical shape / ill-spherical anomalies  
+
+### ✔ Backend Connected  
+Every answer is saved to **SQLite database** with:
+- userId  
+- email  
+- study condition  
+- caseId  
+- question number  
+- image ID  
+- ground truth  
+- user’s diagnosis  
+- AI recommendation  
+- timestamp  
+
+### ✔ Admin/Developer Tools  
+- **View all stored data:**  
+  `http://localhost:3000/results`  
+- **Clear the entire database:**  
+  `http://localhost:3000/clear`  
+- **Export an Excel report:**  
+  `http://localhost:3000/export`
+
+### ✔ Cross-Platform Support  
+- Windows (with batch file)  
+- macOS (manual run recommended)  
+- Linux  
+
+---
+
+## ⚙️ Installation  
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/lokeshmangamuri/Web-Based-XAI-Framework-for-User-Centric-Decision-Making.git
