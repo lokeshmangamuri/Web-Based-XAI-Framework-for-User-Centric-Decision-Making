@@ -43,18 +43,13 @@ Every answer is saved to **SQLite database** with:
 - AI recommendation  
 - timestamp  
 
-###  Admin/Developer Tools  
+### Data stored in sqlite  
 - **View all stored data:**  
   `http://localhost:3000/results`  
 - **Clear the entire database:**  
   `http://localhost:3000/clear`  
 - **Export an Excel report:**  
   `http://localhost:3000/export`
-
-### Cross-Platform Support  
-- Windows (with batch file)  
-- macOS (manual run recommended)  
-- Linux  
 
 ---
 
