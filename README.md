@@ -94,3 +94,32 @@ http://localhost:3000/export
 The Web Application is now ready to use!
 
 ---
+## SHAP Individual and LRP Explanations
+
+<table>
+  <tr>
+    <td align="center"><b>Sample Blockie</b><br>
+      <img src="https://github.com/user-attachments/assets/a3ac310d-9a43-4fe4-b765-4a0870d8f7d5" width="300">
+    </td>
+    <td align="center"><b>SHAP Value</b><br>
+      <img src="https://github.com/user-attachments/assets/187ca6c6-8f46-4601-9484-c165169f9506" width="300">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Arm Position</b><br>
+      <img src="https://github.com/user-attachments/assets/780b60e4-e0be-49bb-967c-fd706e0289b0" width="300">
+    </td>
+    <td align="center"><b>Ill Spherical</b><br>
+      <img src="https://github.com/user-attachments/assets/02395f58-27c5-4305-a124-a3910cc12d9d" width="300">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Bending</b><br>
+      <img src="https://github.com/user-attachments/assets/8dd2d8b3-5fe8-41b5-9727-7a4ac7eade0c" width="300">
+    </td>
+    <td></td>
+  </tr>
+</table>
+
