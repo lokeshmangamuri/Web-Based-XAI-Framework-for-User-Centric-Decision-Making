@@ -2,7 +2,7 @@
 
 We developed a hybrid explanation method for diagnosing Blockies by combining graph-based techniques with visual explanation methods. The system integrates direct AI predictions together with XAI explanations inside a hypothesis-driven decision-making workflow.
 
-This explanation approach is fully implemented in an interactive web application that allows researchers to run user studies, collect responses, store data in a SQLite database.
+This explanation approach is fully implemented in an interactive web application that allows researchers to run user studies, collect responses, store data in a SQLite database and help to analyze how explanations are  affect human decisions.
 
 Initial testing suggests that users achieve better diagnostic accuracy when supported by AI and XAI explanations. However, these results are preliminary, and larger studies are required to confirm the trend and ensure generalization across different participants.
 
@@ -122,4 +122,20 @@ The Web Application is now ready to use!
     <td></td>
   </tr>
 </table>
+
+---
+##   Web Interface
+
+### Diagnosing Blockie without AI prediction
+<img src="https://github.com/user-attachments/assets/c7964482-00ad-453e-bedd-07b35b00222d" width="900">
+
+---
+
+### Diagnosing Blockie with AI prediction
+<img src="https://github.com/user-attachments/assets/cb59df91-d9eb-4a83-a929-5e860365e55e" width="900">
+
+---
+
+### Diagnosing Blockie with AI prediction  and XAI explanations
+<img src="https://github.com/user-attachments/assets/8f2b56c7-b373-4e10-b5b4-d9d8885f41f2" width="900">
 
