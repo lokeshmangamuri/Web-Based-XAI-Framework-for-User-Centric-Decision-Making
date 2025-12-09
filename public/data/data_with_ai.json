@@ -1,0 +1,116 @@
+[
+  {
+    
+    "image": "/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+   
+    "image": "/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "OCDEgen"
+  },
+  {
+    
+    "image": "/assets/7d11e058-79c3-4470-b64a-80ec015ce80c.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy"
+  },
+  {
+
+    "image": "/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/037b6908-0630-40f1-a165-dda61eec4efb.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy"
+  },
+  {
+  
+    "image": "/assets/363b1a69-bc28-4361-8dd4-be213278d263.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+
+    "image": "/assets/624f5845-af94-4469-86ed-63eb18ecb563.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy"
+  },
+  {
+
+    "image": "/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "OCDEgen"
+  },
+  {
+    
+    "image": "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+    
+    "image": "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf.png",
+   "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  },
+  {
+   
+    "image": "/assets/b707e564-ae10-43d5-82b5-e873b7a50725.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  },
+  {
+
+    "image": "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37.png",
+     "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  },
+  {
+    
+    "image": "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  },
+  {
+    
+    "image": "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"
+  },
+  {
+
+    "image": "/assets/b707e564-ae10-43d5-82b5-e873b7a50725.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  },
+  {
+    
+    "image": "/assets/c2c3f450-f479-4e87-9943-8559a06e5512.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy"  }
+]

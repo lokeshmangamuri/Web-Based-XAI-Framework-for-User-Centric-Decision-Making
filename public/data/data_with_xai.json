@@ -1,0 +1,162 @@
+[
+  {
+    "caseId": "CASE1",
+    "image": "/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9_01.png", "/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9_02.png", "/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9_03.png", "/assets/4fc2ef4f-03f4-4698-aee0-41aadf982db9_04.png"],
+  "labels": ["SHAP Values", "Arm_position", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE2",
+    "image": "/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "OCDEgen",
+    "xai": ["/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c_01.png", "/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c_02.png", "/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c_03.png", "/assets/5f30712b-a7f4-4ae8-98c5-62833705cf6c_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE3",
+    "image": "/assets/7d11e058-79c3-4470-b64a-80ec015ce80c.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/7d11e058-79c3-4470-b64a-80ec015ce80c_01.png", "/assets/7d11e058-79c3-4470-b64a-80ec015ce80c_02.png", "/assets/7d11e058-79c3-4470-b64a-80ec015ce80c_03.png", "/assets/7d11e058-79c3-4470-b64a-80ec015ce80c_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE4",
+    "image": "/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5_01.png", "/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5_02.png", "/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5_03.png", "/assets/9a184d92-37dd-4e9f-9bc8-958ae4647ab5_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE5",
+    "image": "/assets/037b6908-0630-40f1-a165-dda61eec4efb.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/037b6908-0630-40f1-a165-dda61eec4efb_01.png", "/assets/037b6908-0630-40f1-a165-dda61eec4efb_02.png", "/assets/037b6908-0630-40f1-a165-dda61eec4efb_03.png", "/assets/037b6908-0630-40f1-a165-dda61eec4efb_04.png"],
+ "labels": ["SHAP Values", "ill_spherical", "Bending", "Arm_position"]
+  },
+  {
+    "caseId": "CASE6",
+    "image": "/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860_01.png", "/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860_02.png", "/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860_03.png", "/assets/043c3e58-8a31-4326-8e4c-d79dc44e5860_04.png"],
+ "labels": ["SHAP Values", "Arm Posture", "Bone Shape", "Head Position"]
+  },
+  {
+    "caseId": "CASE7",
+    "image": "/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68_01.png", "/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68_02.png", "/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68_03.png", "/assets/146d4fa4-6deb-4d4b-8076-423458d9ba68_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE8",
+    "image": "/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e_01.png", "/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e_02.png", "/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e_03.png", "/assets/279e7a2f-871c-4d0f-adf4-b702a1cba88e_04.png"],
+ "labels": ["SHAP Values", "Spherical", "Bending", "ill_spherical"]
+  },
+  {
+    "caseId": "CASE9",
+    "image": "/assets/363b1a69-bc28-4361-8dd4-be213278d263.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/363b1a69-bc28-4361-8dd4-be213278d263_01.png", "/assets/363b1a69-bc28-4361-8dd4-be213278d263_02.png", "/assets/363b1a69-bc28-4361-8dd4-be213278d263_03.png", "/assets/363b1a69-bc28-4361-8dd4-be213278d263_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE10",
+    "image": "/assets/624f5845-af94-4469-86ed-63eb18ecb563.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/624f5845-af94-4469-86ed-63eb18ecb563_01.png", "/assets/624f5845-af94-4469-86ed-63eb18ecb563_02.png", "/assets/624f5845-af94-4469-86ed-63eb18ecb563_03.png", "/assets/624f5845-af94-4469-86ed-63eb18ecb563_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE11",
+    "image": "/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2.png",
+    "groundTruth": "OCDEgen",
+    "aiRecommendation": "OCDEgen",
+    "xai": ["/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2_01.png", "/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2_02.png", "/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2_03.png", "/assets/2121c74a-38f7-439d-b26c-5d04aa99e2b2_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE12",
+    "image": "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_01.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_02.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_03.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE13",
+    "image": "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_01.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_02.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_03.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_04.png"],
+  "labels": ["SHAP Values", "Spherical", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE14",
+    "image": "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf.png",
+   "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_01.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_02.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_03.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE15",
+    "image": "/assets/b707e564-ae10-43d5-82b5-e873b7a50725.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/b707e564-ae10-43d5-82b5-e873b7a50725_01.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_02.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_03.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_04.png"],
+ "labels": ["SHAP Values", "ill_spherical", "Spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE16",
+    "image": "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37.png",
+     "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_01.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_02.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_03.png", "/assets/5059d4ed-8700-4707-a2e8-0b6ec9ed2d37_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Arm_position"]
+  },
+  {
+    "caseId": "CASE17",
+    "image": "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_01.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_02.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_03.png", "/assets/170773e0-fbad-425e-91c4-8e8bde1f3c78_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE18",
+    "image": "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_01.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_02.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_03.png", "/assets/b8c2a998-5bdf-4022-a792-4ad936e379cf_04.png"],
+ "labels": ["SHAP Values", "ill_Spherical", "Bending", "Spherical"]
+  },
+  {
+    "caseId": "CASE19",
+    "image": "/assets/b707e564-ae10-43d5-82b5-e873b7a50725.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/b707e564-ae10-43d5-82b5-e873b7a50725_01.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_02.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_03.png", "/assets/b707e564-ae10-43d5-82b5-e873b7a50725_04.png"],
+ "labels": ["SHAP Values", "ill_Spherical", "Spherical", "Bending"]
+  },
+  {
+    "caseId": "CASE20",
+    "image": "/assets/c2c3f450-f479-4e87-9943-8559a06e5512.png",
+    "groundTruth": "Healthy",
+    "aiRecommendation": "Healthy",
+    "xai": ["/assets/c2c3f450-f479-4e87-9943-8559a06e5512_01.png", "/assets/c2c3f450-f479-4e87-9943-8559a06e5512_02.png", "/assets/c2c3f450-f479-4e87-9943-8559a06e5512_03.png", "/assets/c2c3f450-f479-4e87-9943-8559a06e5512_04.png"],
+ "labels": ["SHAP Values", "Spherical", "ill_Spherical", "Bending"]
+  }
+]
