@@ -71,7 +71,7 @@ After updating the path, **save the file and double-click it** .then the  login 
 
 ---
 
-### 6️ You can manage stored data using these URLs  
+### 6️ Managing stored data using these URLs  
 (**Note:** The server **must** be running for these operations to work):
 
 **View stored responses**
